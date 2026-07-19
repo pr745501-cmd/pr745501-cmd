@@ -14,26 +14,27 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
+- 🎓 **BCA Graduate** from Gujarat, India (2026)
+- 💼 **3 Months Internship** at Tech Fellow — real-world web dev experience
+- 🌱 Currently deepening skills in **React & Node.js**
+- 🔭 Working on **Full Stack** & **MERN Stack** projects
+- 🤖 IBM SkillsBuild certified in **Agentic AI** (2025)
+- 💡 Passionate about clean UI, responsive design & efficient APIs
+- 🤝 Open to **entry-level Web Developer** opportunities
+- 📍 Based in **Vapi, Gujarat, India**
+- ⚡ Fun fact: I turn ☕ into clean code!
+
+<br clear="right"/>
+
 ```javascript
 const pankaj = {
-  name:       "Pankaj Katal",
-  location:   "Vapi, Gujarat, India 📍",
-  education:  "BCA Graduate (2026)",
   role:       "Web Developer",
-  experience: "3 Months Internship @ Tech Fellow",
-  email:      "pr745501@gmail.com",
-  portfolio:  "https://pr745501-cmd.github.io",
-
-  skills: {
-    frontend:  ["HTML5", "CSS3", "JavaScript", "ReactJS", "Angular"],
-    backend:   ["Node.js", "PHP", "Python", "ASP.NET", "VB.NET"],
-    database:  ["MongoDB", "MySQL"],
-    tools:     ["Git", "GitHub", "VS Code"],
-  },
-
-  currentlyLearning: "Advanced React & Node.js",
-  lookingFor:        "Entry-level Web Developer role 🤝",
-  funFact:           "I turn ☕ into clean code!",
+  education:  "BCA Graduate (2026)",
+  stack:      ["HTML", "CSS", "JS", "React", "Node.js", "MongoDB", "PHP"],
+  lookingFor: "Entry-level Web Developer role 🤝",
+  contact:    "pr745501@gmail.com",
 };
 ```
 
@@ -145,14 +146,14 @@ const pankaj = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pr745501-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pr745501-cmd&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pr745501-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=pr745501-cmd&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr745501-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr745501-cmd&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
