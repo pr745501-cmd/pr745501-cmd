@@ -35,7 +35,7 @@ const pankaj = {
   lookingFor:        "Entry-level Web Developer role 🤝",
   funFact:           "I turn ☕ into clean code!",
 };
-` ` `
+```
 
 ---
 
@@ -75,7 +75,10 @@ const pankaj = {
       <div align="center">
         <img src="https://img.shields.io/badge/Full%20Stack-Web%20App-blue?style=flat-square"/>
         <br/><br/>
-        <p>Role-based authentication system with <strong>Admin</strong>, <strong>Faculty</strong>, and <strong>Student</strong> panels. Handles user accounts, attendance, assignments & announcements.</p>
+        <p>
+          Role-based authentication system with <strong>Admin</strong>, <strong>Faculty</strong>, and <strong>Student</strong> panels.
+          Handles user accounts, attendance, assignments & announcements.
+        </p>
         <br/>
         <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -89,7 +92,10 @@ const pankaj = {
       <div align="center">
         <img src="https://img.shields.io/badge/MERN-Stack-green?style=flat-square"/>
         <br/><br/>
-        <p>Blood donation management portal with donor registration, blood request management, and <strong>donor-recipient matching</strong> using RESTful APIs.</p>
+        <p>
+          Blood donation management portal with donor registration,
+          blood request management, and <strong>donor-recipient matching</strong> using RESTful APIs.
+        </p>
         <br/>
         <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -104,7 +110,10 @@ const pankaj = {
       <div align="center">
         <img src="https://img.shields.io/badge/React-App-61DAFB?style=flat-square"/>
         <br/><br/>
-        <p>Web application built with <strong>React</strong> using component-based architecture and fully responsive UI design.</p>
+        <p>
+          Web application built with <strong>React</strong> using component-based
+          architecture and fully responsive UI design.
+        </p>
         <br/>
         <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -116,7 +125,10 @@ const pankaj = {
       <div align="center">
         <img src="https://img.shields.io/badge/PHP-Website-777BB4?style=flat-square"/>
         <br/><br/>
-        <p>Movie-based website built with <strong>PHP</strong> featuring dynamic content rendering and backend functionality.</p>
+        <p>
+          Movie-based website built with <strong>PHP</strong> featuring
+          dynamic content rendering and backend functionality.
+        </p>
         <br/>
         <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
