@@ -1,66 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pankaj%20Katal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20BCA%20Graduate%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EA580C&height=200&section=header&text=Pankaj%20Katal&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%7C%20BCA%20Graduate%20%7C%20MERN%20Stack&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=false&width=600&lines=Hi+there!+I'm+Pankaj+Katal+%F0%9F%91%8B;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;BCA+Graduate+2026;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Pankaj+Katal+%F0%9F%91%8B;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;BCA+Graduate+2026;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
+
+<br/>
 
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 **BCA Graduate** from Gujarat, India (2026)
-- 💼 **3 Months Internship** at Tech Fellow — real-world web dev experience
-- 🌱 Currently deepening skills in **React & Node.js**
-- 🔭 Working on **Full Stack** & **MERN Stack** projects
-- 🤖 IBM SkillsBuild certified in **Agentic AI** (2025)
-- 💡 Passionate about clean UI, responsive design & efficient APIs
-- 🤝 Open to **entry-level Web Developer** opportunities
-- 📍 Based in **Vapi, Gujarat, India**
+- 🎓 **BCA Graduate** — Class of 2026, Gujarat, India
+- 💼 **3 Months Web Dev Internship** @ Tech Fellow
+- 🔭 Building **Full Stack** & **MERN Stack** projects
+- 🌱 Currently levelling up in **React & Node.js**
+- 🤖 **IBM SkillsBuild** certified — Agentic AI (2025)
+- 💡 Passionate about clean UI & efficient backend APIs
+- 🤝 **Open to work** — entry-level Web Developer roles
+- 📍 **Vapi, Gujarat, India**
 - ⚡ Fun fact: I turn ☕ into clean code!
 
 <br clear="right"/>
-
-```javascript
-const pankaj = {
-  role:       "Web Developer",
-  education:  "BCA Graduate (2026)",
-  stack:      ["HTML", "CSS", "JS", "React", "Node.js", "MongoDB", "PHP"],
-  lookingFor: "Entry-level Web Developer role 🤝",
-  contact:    "pr745501@gmail.com",
-};
-```
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
+**Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### ⚙️ Backend
+**Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🗄️ Database
+**Database & Tools**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -74,16 +67,13 @@ const pankaj = {
     <td width="50%">
       <h3 align="center">🏫 Smart Classroom Engagement Tool</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/Full%20Stack-Web%20App-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Full%20Stack-Web%20App-0078D4?style=for-the-badge"/>
         <br/><br/>
-        <p>
-          Role-based authentication system with <strong>Admin</strong>, <strong>Faculty</strong>, and <strong>Student</strong> panels.
-          Handles user accounts, attendance, assignments & announcements.
-        </p>
+        <p>Role-based auth system with <strong>Admin</strong>, <strong>Faculty</strong> and <strong>Student</strong> panels. Manages attendance, assignments and announcements.</p>
         <br/>
         <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
         <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
       </div>
@@ -91,15 +81,12 @@ const pankaj = {
     <td width="50%">
       <h3 align="center">🩸 Blood Connect Portal</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/MERN-Stack-green?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MERN-Stack-4EA94B?style=for-the-badge"/>
         <br/><br/>
-        <p>
-          Blood donation management portal with donor registration,
-          blood request management, and <strong>donor-recipient matching</strong> using RESTful APIs.
-        </p>
+        <p>Blood donation portal with donor registration, request management and <strong>donor-recipient matching</strong> via RESTful APIs.</p>
         <br/>
         <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white"/>
         <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       </div>
@@ -109,12 +96,9 @@ const pankaj = {
     <td width="50%">
       <h3 align="center">🗺️ Express Way</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/React-App-61DAFB?style=flat-square"/>
+        <img src="https://img.shields.io/badge/React-App-61DAFB?style=for-the-badge"/>
         <br/><br/>
-        <p>
-          Web application built with <strong>React</strong> using component-based
-          architecture and fully responsive UI design.
-        </p>
+        <p>Responsive web app built with <strong>React</strong>, component-based architecture and clean UI design.</p>
         <br/>
         <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -124,12 +108,9 @@ const pankaj = {
     <td width="50%">
       <h3 align="center">🎬 MovieFlix</h3>
       <div align="center">
-        <img src="https://img.shields.io/badge/PHP-Website-777BB4?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PHP-Website-777BB4?style=for-the-badge"/>
         <br/><br/>
-        <p>
-          Movie-based website built with <strong>PHP</strong> featuring
-          dynamic content rendering and backend functionality.
-        </p>
+        <p>Movie website with dynamic content rendering and backend functionality built in <strong>PHP</strong>.</p>
         <br/>
         <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -146,36 +127,26 @@ const pankaj = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pr745501-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=pr745501-cmd&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pr745501-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+&nbsp;&nbsp;
+<img height="180" src="https://streak-stats.demolab.com?user=pr745501-cmd&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr745501-cmd&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pr745501-cmd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
+<br/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr745501-cmd&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 
 ---
 
 ## 📜 Certifications
 
-| Certificate | Issuer | Year |
+| 🏅 Certificate | 🏢 Issuer | 📅 Year |
 |---|---|---|
 | 🤖 **Agentic AI: From Learner to Builder** | IBM SkillsBuild & CSRBOX Foundation | 2025 |
-| 💻 **C Language Course** | Vrundavan Computer Classes | — |
-| 🖥️ **CCC — Course on Computer Concepts** | Vrundavan Computer Classes | — |
+| 💻 **C Language Course** | Vrundavan Computer Classes, Vapi | — |
+| 🖥️ **CCC — Course on Computer Concepts** | Vrundavan Computer Classes, Vapi | — |
 
 ---
 
@@ -185,8 +156,7 @@ const pankaj = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankaj-katal-68b17b416)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pr745501-cmd)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pr745501@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=firefox&logoColor=white)](https://pr745501-cmd.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pr745501@gmail.com)
 
 </div>
 
@@ -194,18 +164,10 @@ const pankaj = {
 
 <div align="center">
 
-### 💬 Quote I Live By
+*"First, solve the problem. Then, write the code."*
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+![Visitor Count](https://komarev.com/ghpvc/?username=pr745501-cmd&color=F97316&style=flat-square&label=Profile+Views)
 
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=pr745501-cmd&color=F97316&style=flat-square&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:EA580C&height=120&section=footer" width="100%"/>
 
 </div>
