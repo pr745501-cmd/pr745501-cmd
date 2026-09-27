@@ -1,191 +1,345 @@
 <div align="center">
 
-# 👋 Hi, I'm Pankaj Katal
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ██████╗  █████╗ ███╗   ██╗██╗  ██╗ █████╗      ██╗       ║
+║   ██╔══██╗██╔══██╗████╗  ██║██║ ██╔╝██╔══██╗     ██║       ║
+║   ██████╔╝███████║██╔██╗ ██║█████╔╝ ███████║     ██║       ║
+║   ██╔═══╝ ██╔══██║██║╚██╗██║██╔═██╗ ██╔══██║██   ██║       ║
+║   ██║     ██║  ██║██║ ╚████║██║  ██╗██║  ██║╚█████╔╝       ║
+║   ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝        ║
+║                                                              ║
+║                 FULL STACK DEVELOPER                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-### Full Stack Web Developer
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;Pankaj+Katal;%24+cat+role.txt;Full+Stack+Web+Developer;%24+cat+mission.txt;Build.+Break.+Learn.+Repeat.;%24+./start.sh;Creating+real-world+web+applications..." />
 
-*Building modern, practical and user-focused web applications.*
+<br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React+%7C+Node.js+%7C+PHP;Building+Real-World+Web+Applications;Always+Learning+%26+Improving+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pr745501-cmd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankaj-katal-68b17b416)
-[![Email](https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pr745501@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=00FF41)](https://github.com/pr745501-cmd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=00FF41)](https://linkedin.com/in/pankaj-katal-68b17b416)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge\&logo=gmail\&logoColor=00FF41)](mailto:pr745501@gmail.com)
 
 </div>
 
-<br/>
+---
 
-## 🧭 About Me
+```bash
+┌──[pankaj@github]─[~/profile]
+└─$ ./about.sh
+```
 
-I'm a Full Stack Web Developer from Gujarat, India, with a BCA (2026) and hands-on internship experience building real-world web applications using the MERN stack and PHP/MySQL. I enjoy turning ideas into clean, functional products — from role-based platforms to booking systems.
+## `> ABOUT_ME`
+
+```text
+Name        : Pankaj Katal
+Role        : Full Stack Web Developer
+Location    : Gujarat, India
+Education   : BCA — 2026
+Experience  : 3 Months @ Tech Fellow
+
+Mission     : Build practical software that solves real problems.
+Mindset     : Learn → Build → Break → Debug → Improve
+
+Status      : ONLINE ●
+```
 
 ```javascript
-const pankaj = {
+const developer = {
+    name: "Pankaj Katal",
     role: "Full Stack Web Developer",
-    location: "Gujarat, India",
-    education: "BCA Graduate — 2026",
-    experience: "3 Months @ Tech Fellow",
-    stack: ["React", "Node.js", "PHP", "MongoDB", "MySQL"],
-    focus: "Building practical, production-ready full-stack applications"
+
+    stack: {
+        frontend: ["React", "Angular", "JavaScript", "HTML", "CSS"],
+        backend: ["Node.js", "Express", "PHP"],
+        database: ["MongoDB", "MySQL"],
+        tools: ["Git", "GitHub", "Postman", "VS Code"]
+    },
+
+    currentlyLearning: [
+        "Advanced React",
+        "Node.js",
+        "REST APIs",
+        "Modern UI/UX",
+        "Production Architecture"
+    ],
+
+    philosophy: "Code is built twice — once in your mind, once in production."
 };
 ```
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+```bash
+┌──[pankaj@github]─[~/skills]
+└─$ ls -la
+```
 
-**Frontend**
+## `> TECH_STACK`
+
+### `01 // FRONTEND`
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,angular" />
 
-**Backend**
+### `02 // BACKEND`
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
 
-**Database & Tools**
+### `03 // DATABASE`
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
-<br/>
+### `04 // TOOLS`
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+---
+
+```bash
+┌──[pankaj@github]─[~/projects]
+└─$ ./projects.sh --featured
+```
+
+## `> FEATURED_PROJECTS`
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🏫 Smart Classroom
-**Tech:** MERN Stack
+### `01 // SMART_CLASSROOM`
 
-A full-stack classroom management platform connecting Admin, Faculty and Students through role-based workflows.
+**MERN Stack**
 
-- Role-based authentication
-- Admin, Faculty & Student panels
-- Attendance & assignment management
-- Lecture management & announcements
-- REST APIs · MongoDB
+```text
+STATUS : COMPLETED
+TYPE   : Full Stack
+```
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
+A role-based classroom management platform connecting Admin, Faculty and Students.
+
+```text
+✓ Authentication
+✓ Role-based access
+✓ Student management
+✓ Faculty dashboard
+✓ Attendance
+✓ Assignments
+✓ Lectures
+✓ Announcements
+✓ REST APIs
+✓ MongoDB
+```
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🩸 Blood Connect Portal
-**Tech:** MERN Stack
+### `02 // BLOOD_CONNECT`
 
-A blood donation platform connecting donors and recipients through streamlined blood request and matching workflows.
+**MERN Stack**
 
-- Donor registration
-- Blood requests & matching
-- Authentication
-- REST APIs · MongoDB
+```text
+STATUS : PROJECT
+TYPE   : Full Stack
+```
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express" />
+A platform designed to connect blood donors with recipients through streamlined workflows.
+
+```text
+✓ Donor registration
+✓ Blood requests
+✓ Matching workflow
+✓ Authentication
+✓ REST APIs
+✓ MongoDB
+```
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🏨 Hospital Management System
-**Tech:** PHP + MySQL
+### `03 // HOSPITAL_MANAGEMENT`
 
-A web-based hospital management application to organize patients, doctors, appointments and administrative workflows.
+**PHP + MySQL**
 
-- Patient & doctor management
-- Appointment management
-- Admin functionality & CRUD operations
-- Authentication · MySQL database
+```text
+STATUS : COMPLETED
+TYPE   : Web Application
+```
+
+Hospital management platform for organizing patients, doctors and appointments.
+
+```text
+✓ Patient management
+✓ Doctor management
+✓ Appointments
+✓ Authentication
+✓ Admin CRUD
+✓ MySQL database
+```
 
 <img src="https://skillicons.dev/icons?i=php,mysql" />
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🎬 MovieFlix
-**Tech:** PHP + MySQL
+### `04 // MOVIEFLIX`
 
-A movie browsing and booking platform with dynamic movie management and seat booking functionality.
+**PHP + MySQL**
 
-- Movie catalog & admin CRUD
-- Movie image uploads
-- User authentication
-- Seat selection & booking records
+```text
+STATUS : COMPLETED
+TYPE   : Booking Platform
+```
+
+Movie browsing and booking platform with administration and seat selection.
+
+```text
+✓ Movie catalog
+✓ Admin CRUD
+✓ Image uploads
+✓ Authentication
+✓ Seat selection
+✓ Booking records
+```
 
 <img src="https://skillicons.dev/icons?i=php,mysql" />
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+---
 
-## 📊 GitHub Analytics
+```bash
+┌──[pankaj@github]─[~/github]
+└─$ neofetch
+```
+
+## `> SYSTEM_STATS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pr745501-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pr745501-cmd&theme=tokyonight&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=F97316&currStreakLabel=F97316" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pr745501-cmd&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr745501-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pr745501-cmd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pr745501-cmd&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41&currStreakNum=00FF41&sideNums=00FF41" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr745501-cmd&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pr745501-cmd&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="48%" />
 
 </div>
 
-<br/>
+---
 
-## 🎓 Certifications
+```bash
+┌──[pankaj@github]─[~/certifications]
+└─$ cat certifications.txt
+```
 
-| Certificate | Issuer | Year |
-|---|---|---|
-| Agentic AI: From Learner to Builder | IBM SkillsBuild | 2025 |
-| C Language Course | Vrundavan Computer Classes, Vapi | — |
-| CCC — Course on Computer Concepts | Vrundavan Computer Classes, Vapi | — |
+## `> CERTIFICATIONS`
 
-<br/>
+```text
+[✓] Agentic AI: From Learner to Builder
+    └── IBM SkillsBuild — 2025
 
-## 🎯 Current Focus
+[✓] C Language Course
+    └── Vrundavan Computer Classes, Vapi
 
-- ⚛️ Advanced React
-- 🟢 Node.js & REST APIs
-- 🗄️ MongoDB & MySQL
-- 🎨 Modern UI/UX
-- 🚀 Production-ready Full Stack Applications
+[✓] CCC — Course on Computer Concepts
+    └── Vrundavan Computer Classes, Vapi
+```
 
-<br/>
+---
 
-## 💼 Open to Opportunities
+```bash
+┌──[pankaj@github]─[~/learning]
+└─$ ./current_focus.sh
+```
 
-I'm currently open to roles as a:
+## `> CURRENT_FOCUS`
 
-- Full Stack Web Developer
-- MERN Stack Developer
-- React Developer
-- Node.js Developer
-- PHP Web Developer
-- Junior Software Developer
+```text
+[████████████████████░░] Advanced React
 
-<br/>
+[██████████████████░░░░] Node.js & REST APIs
 
-## 📬 Connect With Me
+[█████████████████░░░░░] MongoDB & MySQL
+
+[████████████████░░░░░░] Modern UI/UX
+
+[███████████████░░░░░░░] Production Architecture
+```
+
+```text
+01. Build better interfaces
+02. Write cleaner backend systems
+03. Understand scalable architecture
+04. Ship real-world applications
+05. Keep learning
+```
+
+---
+
+```bash
+┌──[pankaj@github]─[~/terminal]
+└─$ ./connect.sh
+```
+
+## `> CONNECT`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pr745501-cmd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pankaj-katal-68b17b416)
-[![Gmail](https://img.shields.io/badge/Gmail-F97316?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pr745501@gmail.com)
+```text
+╔══════════════════════════════════════════════╗
+║                                              ║
+║       CONNECTION ESTABLISHED...              ║
+║                                              ║
+║       GitHub      → @pr745501-cmd            ║
+║       LinkedIn    → Pankaj Katal             ║
+║       Email       → pr745501@gmail.com       ║
+║                                              ║
+║       Looking for opportunities.             ║
+║       Let's build something useful.          ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+```
+
+[![GitHub](https://img.shields.io/badge/ACCESS_GITHUB-000000?style=for-the-badge\&logo=github\&logoColor=00FF41)](https://github.com/pr745501-cmd)
+[![LinkedIn](https://img.shields.io/badge/ACCESS_LINKEDIN-000000?style=for-the-badge\&logo=linkedin\&logoColor=00FF41)](https://linkedin.com/in/pankaj-katal-68b17b416)
+[![Email](https://img.shields.io/badge/SEND_MESSAGE-000000?style=for-the-badge\&logo=gmail\&logoColor=00FF41)](mailto:pr745501@gmail.com)
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+```text
+$ sudo rm -rf self-doubt
+$ git add .
+$ git commit -m "keep improving"
+$ git push origin main
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer" width="100%"/>
+> BUILD. DEBUG. DEPLOY. REPEAT.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&fontColor=00FF41"/>
 
 </div>
