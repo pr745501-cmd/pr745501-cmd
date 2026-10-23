@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="pr-title pr-desc">
+<title id="pr-title">Pankaj Katal — Things I've built</title>
+<desc id="pr-desc">Featured full stack builds: Smart_Classroom, Blood_Connect, Hospital_Management, and MovieFlix.</desc>
+<defs>
+ <linearGradient id="proj-hairline"><stop stop-color="#cf7a4e" stop-opacity=".7"/><stop offset=".5" stop-color="#8a7264" stop-opacity=".25"/><stop offset="1" stop-color="#a63d5c" stop-opacity=".65"/></linearGradient>
+ <radialGradient id="proj-halo"><stop stop-color="#8a5a3a" stop-opacity=".35"/><stop offset="1" stop-color="#8a5a3a" stop-opacity="0"/></radialGradient>
+ <radialGradient id="proj-red-halo"><stop stop-color="#7e2a44" stop-opacity=".22"/><stop offset="1" stop-color="#7e2a44" stop-opacity="0"/></radialGradient>
+ <pattern id="proj-dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#c4a892" opacity=".13"/></pattern>
+ <clipPath id="proj-outer"><rect x="1" y="1" width="1198" height="688" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#proj-outer)">
+<rect x="1" y="1" width="1198" height="688" rx="22" fill="#150a0e" stroke="url(#proj-hairline)"/>
+<rect x="2" y="2" width="1196" height="686" rx="21" fill="url(#proj-dots)" stroke="none"/>
+<ellipse cx="280" cy="200" rx="360" ry="300" fill="url(#proj-halo)"/>
+<ellipse cx="960" cy="480" rx="360" ry="300" fill="url(#proj-red-halo)"/>
+
+<!-- Section Header -->
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+ <text x="34" y="37" font-size="11" fill="#a3958a" letter-spacing="1.6">03.5 / FEATURED BUILDS</text>
+ <text x="32" y="82" font-size="34" fill="#f7f1e9" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700">THINGS I'VE BUILT.</text>
+ <text x="1166" y="82" font-size="11" fill="#7d6f63" text-anchor="end" letter-spacing="1.2">4 FEATURED FULL STACK PROJECTS</text>
+</g>
+
+<!-- Card 1: Smart_Classroom -->
+<g transform="translate(34, 114)">
+ <rect width="554" height="242" rx="14" fill="#1f1116" stroke="#cf7a4e" stroke-width="1.5"/>
+ <rect x="1" y="1" width="552" height="38" rx="13" fill="#2b171d"/>
+ <circle cx="20" cy="20" r="3.5" fill="#a63d5c"/><circle cx="32" cy="20" r="3.5" fill="#cf7a4e"/><circle cx="44" cy="20" r="3.5" fill="#f0d9c0"/>
+ <text x="64" y="24" font-size="11" fill="#b3a496" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.4">01 // MERN STACK</text>
+ <rect x="446" y="8" width="96" height="22" rx="11" fill="#251318" stroke="#cf7a4e" stroke-width="1"/>
+ <text x="494" y="23" font-size="10.5" fill="#e8b78c" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="600">COMPLETED</text>
+ 
+ <text x="24" y="74" font-size="21" fill="#f7f1e9" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700">Smart_Classroom</text>
+ <text x="530" y="74" font-size="16" fill="#cf7a4e" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">↗</text>
+ 
+ <text x="24" y="106" font-size="13.5" fill="#efe6da" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Role-based classroom management platform connecting</text>
+ <text x="24" y="128" font-size="13.5" fill="#efe6da" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Admin, Faculty and Students through streamlined workflows.</text>
+ 
+ <text x="24" y="162" font-size="11.5" fill="#a3958a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">&gt; Auth · Faculty Portal · Attendance · Assignments</text>
+ 
+ <!-- Tech Pills -->
+ <g transform="translate(24, 190)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">
+  <rect x="0" y="0" width="62" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="31" y="17" fill="#e8b78c" text-anchor="middle">React</text>
+  <rect x="70" y="0" width="72" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="106" y="17" fill="#e8b78c" text-anchor="middle">Node.js</text>
+  <rect x="150" y="0" width="72" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="186" y="17" fill="#e8b78c" text-anchor="middle">Express</text>
+  <rect x="230" y="0" width="82" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="271" y="17" fill="#e8b78c" text-anchor="middle">MongoDB</text>
+  <rect x="320" y="0" width="86" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="363" y="17" fill="#d98ba0" text-anchor="middle">REST APIs</text>
+ </g>
+</g>
+
+<!-- Card 2: Blood_Connect -->
+<g transform="translate(612, 114)">
+ <rect width="554" height="242" rx="14" fill="#1f1116" stroke="#e3b98c" stroke-width="1.5"/>
+ <rect x="1" y="1" width="552" height="38" rx="13" fill="#2b171d"/>
+ <circle cx="20" cy="20" r="3.5" fill="#a63d5c"/><circle cx="32" cy="20" r="3.5" fill="#cf7a4e"/><circle cx="44" cy="20" r="3.5" fill="#f0d9c0"/>
+ <text x="64" y="24" font-size="11" fill="#b3a496" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.4">02 // MERN STACK</text>
+ <rect x="446" y="8" width="96" height="22" rx="11" fill="#251318" stroke="#e3b98c" stroke-width="1"/>
+ <text x="494" y="23" font-size="10.5" fill="#e3b98c" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="600">COMPLETED</text>
+ 
+ <text x="24" y="74" font-size="21" fill="#f7f1e9" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700">Blood_Connect</text>
+ <text x="530" y="74" font-size="16" fill="#e3b98c" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">↗</text>
+ 
+ <text x="24" y="106" font-size="13.5" fill="#efe6da" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Platform connecting blood donors with recipients</text>
+ <text x="24" y="128" font-size="13.5" fill="#efe6da" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">through streamlined matching, verification, and live requests.</text>
+ 
+ <text x="24" y="162" font-size="11.5" fill="#a3958a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">&gt; Donor Network · Live Tracking · Verification System</text>
+ 
+ <!-- Tech Pills -->
+ <g transform="translate(24, 190)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">
+  <rect x="0" y="0" width="62" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="31" y="17" fill="#e8b78c" text-anchor="middle">React</text>
+  <rect x="70" y="0" width="72" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="106" y="17" fill="#e8b78c" text-anchor="middle">Node.js</text>
+  <rect x="150" y="0" width="72" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="186" y="17" fill="#e8b78c" text-anchor="middle">Express</text>
+  <rect x="230" y="0" width="82" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="271" y="17" fill="#e8b78c" text-anchor="middle">MongoDB</text>
+  <rect x="320" y="0" width="92" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="366" y="17" fill="#d98ba0" text-anchor="middle">Workflows</text>
+ </g>
+</g>
+
+<!-- Card 3: Hospital_Management -->
+<g transform="translate(34, 380)">
+ <rect width="554" height="242" rx="14" fill="#1f1116" stroke="#a63d5c" stroke-width="1.5"/>
+ <rect x="1" y="1" width="552" height="38" rx="13" fill="#2b171d"/>
+ <circle cx="20" cy="20" r="3.5" fill="#a63d5c"/><circle cx="32" cy="20" r="3.5" fill="#cf7a4e"/><circle cx="44" cy="20" r="3.5" fill="#f0d9c0"/>
+ <text x="64" y="24" font-size="11" fill="#b3a496" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.4">03 // PHP + MYSQL</text>
+ <rect x="446" y="8" width="96" height="22" rx="11" fill="#251318" stroke="#a63d5c" stroke-width="1"/>
+ <text x="494" y="23" font-size="10.5" fill="#d98ba0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="600">COMPLETED</text>
+ 
+ <text x="24" y="74" font-size="21" fill="#f7f1e9" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700">Hospital_Management</text>
+ <text x="530" y="74" font-size="16" fill="#a63d5c" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">↗</text>
+ 
+ <text x="24" y="106" font-size="13.5" fill="#efe6da" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Comprehensive management platform for organizing patients,</text>
+ <text x="24" y="128" font-size="13.5" fill="#efe6da" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">doctors, medical departments, and appointment scheduling.</text>
+ 
+ <text x="24" y="162" font-size="11.5" fill="#a3958a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">&gt; Appointments · Patient Records · Doctor Roster · Billing</text>
+ 
+ <!-- Tech Pills -->
+ <g transform="translate(24, 190)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">
+  <rect x="0" y="0" width="52" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="26" y="17" fill="#e8b78c" text-anchor="middle">PHP</text>
+  <rect x="60" y="0" width="68" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="94" y="17" fill="#e8b78c" text-anchor="middle">MySQL</text>
+  <rect x="136" y="0" width="92" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="182" y="17" fill="#e8b78c" text-anchor="middle">Bootstrap</text>
+  <rect x="236" y="0" width="96" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="284" y="17" fill="#e8b78c" text-anchor="middle">JavaScript</text>
+  <rect x="340" y="0" width="106" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="393" y="17" fill="#d98ba0" text-anchor="middle">Admin Portal</text>
+ </g>
+</g>
+
+<!-- Card 4: MovieFlix -->
+<g transform="translate(612, 380)">
+ <rect width="554" height="242" rx="14" fill="#1f1116" stroke="#f0d9c0" stroke-width="1.5"/>
+ <rect x="1" y="1" width="552" height="38" rx="13" fill="#2b171d"/>
+ <circle cx="20" cy="20" r="3.5" fill="#a63d5c"/><circle cx="32" cy="20" r="3.5" fill="#cf7a4e"/><circle cx="44" cy="20" r="3.5" fill="#f0d9c0"/>
+ <text x="64" y="24" font-size="11" fill="#b3a496" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.4">04 // PHP + MYSQL</text>
+ <rect x="446" y="8" width="96" height="22" rx="11" fill="#251318" stroke="#f0d9c0" stroke-width="1"/>
+ <text x="494" y="23" font-size="10.5" fill="#f0d9c0" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="600">COMPLETED</text>
+ 
+ <text x="24" y="74" font-size="21" fill="#f7f1e9" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-weight="700">MovieFlix</text>
+ <text x="530" y="74" font-size="16" fill="#f0d9c0" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">↗</text>
+ 
+ <text x="24" y="106" font-size="13.5" fill="#efe6da" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">Movie browsing and booking platform with admin management,</text>
+ <text x="24" y="128" font-size="13.5" fill="#efe6da" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">interactive seat selection, and showtime schedules.</text>
+ 
+ <text x="24" y="162" font-size="11.5" fill="#a3958a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">&gt; Seat Picker · Admin Panel · Showtimes · Ticket Booking</text>
+ 
+ <!-- Tech Pills -->
+ <g transform="translate(24, 190)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">
+  <rect x="0" y="0" width="52" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="26" y="17" fill="#e8b78c" text-anchor="middle">PHP</text>
+  <rect x="60" y="0" width="68" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="94" y="17" fill="#e8b78c" text-anchor="middle">MySQL</text>
+  <rect x="136" y="0" width="68" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="170" y="17" fill="#e8b78c" text-anchor="middle">HTML5</text>
+  <rect x="212" y="0" width="58" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="241" y="17" fill="#e8b78c" text-anchor="middle">CSS3</text>
+  <rect x="278" y="0" width="126" height="26" rx="13" fill="#251318" stroke="#4d2f2a"/><text x="341" y="17" fill="#d98ba0" text-anchor="middle">Seat Selection</text>
+ </g>
+</g>
+
+<!-- Footer info -->
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+ <text x="34" y="662" font-size="11" fill="#7d6f63" letter-spacing="1.2">const builds = [smart_classroom, blood_connect, hospital_management, movieflix];</text>
+ <text x="1166" y="662" font-size="11" fill="#a3958a" text-anchor="end" letter-spacing="1.2">Architecture · APIs · Production-Ready</text>
+</g>
+</g>
+</svg>

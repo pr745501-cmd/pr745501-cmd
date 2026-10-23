@@ -6,14 +6,13 @@
 
 <img src="./assets/stack.svg?v=5" width="100%" alt="My stack: React, Angular, JavaScript, HTML, CSS, Node.js, Express, PHP, Python, MongoDB, MySQL, Git, GitHub, Postman, VS Code." />
 
-### Things I've built
+<img src="./assets/projects.svg?v=1" width="100%" alt="Things I've built — Smart_Classroom, Blood_Connect, Hospital_Management, MovieFlix" />
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **Smart_Classroom** | Role-based classroom management platform connecting Admin, Faculty and Students | MERN |
-| **Blood_Connect** | Platform connecting blood donors with recipients through streamlined workflows | MERN |
-| **Hospital_Management** | Platform for organizing patients, doctors and appointments | PHP + MySQL |
-| **MovieFlix** | Movie browsing and booking platform with admin panel and seat selection | PHP + MySQL |
+<p align="center">
+  <a href="https://github.com/pr745501-cmd/Smart-Classroom">Smart_Classroom</a> &nbsp;·&nbsp;
+  <a href="https://github.com/pr745501-cmd/Blood-Bank">Blood_Connect</a> &nbsp;·&nbsp;
+  <a href="https://github.com/pr745501-cmd/MovieFlix">MovieFlix</a>
+</p>
 
 <img src="./assets/id-dashboard.svg?v=5" width="100%" alt="Pankaj's builder ID and public dashboard. 9 public repositories, 2 followers, 4 featured builds, 3 certifications. Snapshot: October 23, 2026." />
 
